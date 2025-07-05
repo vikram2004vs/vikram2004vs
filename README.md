@@ -15,10 +15,6 @@
 - 🌱 Currently diving deep into **Next.js**, **GraphQL**, and **AI integrations**  
 - 💬 Ask me about: `C`, `C++`, `Python`, `MongoDB`, `AngularJS`, `React`  
 - 🛠️ Favorite Tools: **VS Code**, **GitHub**, and a fresh cup of ☕  
-- 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/vikram-m-ece-2638b1326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](mailto:vikram161104vicky@gmail.com)
-
----
-
 ## 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/vikram-m-ece-2638b1326" target="_blank">
