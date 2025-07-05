@@ -80,14 +80,6 @@
 </p>
 
 ---
-
-## 📈 Visitor Counter
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vikram2004vs&icon=0&color=13" alt="visitor count"/>
-</p>
-
----
-
 <p align="center">
   <i>🚀 Proudly built with passion & powered by <a href="https://gprm.itsvg.in" target="_blank">GPRM</a></i>
 </p>
