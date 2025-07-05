@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there, I'm <span style="color:#00BFFF">Vikram</span> 👋</h1>
-<h3 align="center">🚀 B.TECH ECE FINAL YEAR  | Code Alchemist | Tech Explorer</h3>
+<h3 align="center">🚀 B.TECH ECE FINAL YEAR  | </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=I+build+cool+things+with+Python;I+love+clean+code+%26+clever+UX;Let's+create+something+awesome!" />
@@ -9,6 +9,7 @@
 ---
 
 ## 💫 About Me:
+
 - 🌱 Currently diving deep into **Next.js**, **GraphQL**, and **AI integrations**  
 - 💬 Ask me about: `C`, `C++`, `Python`, `MongoDB`, `AngularJS`, `React`  
 - 🛠️ Favorite Tools: **VS Code**, **GitHub**, and a fresh cup of ☕  
